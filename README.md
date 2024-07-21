@@ -8,10 +8,10 @@ Esta es una aplicación web interactiva construida con Dash para visualizar dato
 
 Las dependencias necesarias para ejecutar esta aplicación están listadas en el archivo `requirements.txt`. Incluyen:
 
-  Dash
-  Dash Bootstrap Components
-  Pandas
-  Plotly
+ - Dash
+ - Dash Bootstrap Components
+ - Pandas
+ - Plotly
 
 ## Instalación
 
@@ -35,18 +35,18 @@ python appdash.py
 ## Funcionalidades
 
 - Métodos de Imputación: Seleccione entre los siguientes métodos para manejar datos faltantes:
-   Original
-   Quitando los NANS
-   Llenado con 0’s
-   Interpolación Polinómica de grado 2
+  - Original
+  - Quitando los NANS
+  - Llenado con 0’s
+  - Interpolación Polinómica de grado 2
 
 - Tipos de Gráficos: Visualice los datos utilizando los siguientes tipos de gráficos:
-   Línea
-   Barra
-   Burbuja
-   Área
-   Histograma
-   Caja
+  - Línea
+  - Barra
+  - Burbuja
+  - Área
+  - Histograma
+  - Caja
     
 ## Link oficial de la pagina: http://proyectofinalanalisis.pythonanywhere.com/
 
