@@ -50,4 +50,4 @@ python appdash.py
 
 ## Contacto
 
-Para más información, contacte al autor.
+Para más información, contacte a: luis.joseph@utp.ac.pa, gerson.victoria@utp.ac.pa, sebastian.espinosa@utp.ac.pa, fernando.hilberth@utp.ac.pa.
