@@ -1,0 +1,92 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+.header-title {
+    text-align: center;
+    padding: 20px;
+    background-color: #343a40;
+    color: white;
+    margin-bottom: 20px;
+    font-size: 2em;
+    border-bottom: 3px solid #dc3545;
+}
+
+.label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.dropdown-container,
+.date-picker-container {
+    margin-bottom: 20px;
+}
+
+.dropdown,
+.date-input {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.date-input {
+    padding: 10px;
+    border: 1px solid #a9d30e;
+    border-radius: 5px;
+}
+
+.update-button {
+    display: block;
+    width: auto;
+    padding: 5px 10px;
+    background-color: #343a40;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.update-button:hover {
+    background-color: #23272b;
+}
+
+.graph-container {
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    height: 800px; /* Increased height to ensure the graph fits */
+    margin-left: 20px; /* Add space between graph containers */
+    margin-right: 20px; /* Add space between graph containers */
+}
+
+.graph-title {
+    margin-bottom: 10px;
+    font-size: 1.25em;
+    text-align: center;
+    color: #495057;
+}
+
+.graph {
+    width: 100%;
+    height: 100%;
+}
+
+.footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #343a40;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    border-top: 3px solid #dc3545;
+}
