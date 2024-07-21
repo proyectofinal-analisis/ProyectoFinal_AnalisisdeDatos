@@ -34,13 +34,13 @@ python appdash.py
 
 ## Funcionalidades
 
-- Métodos de Imputación: Seleccione entre los siguientes métodos para manejar datos faltantes:
+ Métodos de Imputación: Seleccione entre los siguientes métodos para manejar datos faltantes:
   - Original
   - Quitando los NANS
   - Llenado con 0’s
   - Interpolación Polinómica de grado 2
 
-- Tipos de Gráficos: Visualice los datos utilizando los siguientes tipos de gráficos:
+ Tipos de Gráficos: Visualice los datos utilizando los siguientes tipos de gráficos:
   - Línea
   - Barra
   - Burbuja
